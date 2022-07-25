@@ -20,7 +20,7 @@ body{
 #span1{
     color: red;
 }
-#imd-div{
+#img-div{
     /* border: 2px solid red; */
     text-align: center;
 }
@@ -68,5 +68,5 @@ li{
     background-color: black;
 }
 #link:hover{
-    
+
 }
